@@ -8,7 +8,7 @@
 
 3.Code snippet
 
-###1.Team Details
+## 1.Team Details
 
 PRANAY KUMAR VARAKALA 1898497
 
