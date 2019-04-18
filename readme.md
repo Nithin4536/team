@@ -27,4 +27,6 @@ ABDUL WASIM SHAIK 18998495
 
 ## 3. Meaning
 
->JAI BALAYYA
+if (isAwesome){
+return true
+}
