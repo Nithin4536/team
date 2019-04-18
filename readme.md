@@ -7,13 +7,4 @@
 2.Representation by pictures
 
 3.Code snippet
-
-## Team Details
-
-PRANAY KUMAR VARAKALA 1898497 
-
-NITHIN REDDY KANDULA 1896565
-
-SAI KRISHNA REDDY ANUGU 1898370
-
-ABDUL WASIM SHAIK 1898495
+![image of pranay](C:\Users\1898370\Downloads\download.jpg)
