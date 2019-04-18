@@ -27,6 +27,6 @@ ABDUL WASIM SHAIK 18998495
 
 ## 3. Meaning
 
-if (isAwesome){
+if (is awesome){
 return true
 }
