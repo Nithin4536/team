@@ -27,7 +27,7 @@ ABDUL WASIM SHAIK 1898495
 
 ## 3. Code Snippet
 
->Pranay is a fan of Arjun reddy </p>
->Nithin is also called as tin tin <p>
->Sai ka duniya <p>
->Wasim character represents yagami <p>
+>Pranay is a fan of Arjun reddy 
+>Nithin is also called as tin tin 
+>Sai ka duniya 
+>Wasim character represents yagami 
