@@ -6,7 +6,7 @@
 
 2.Representation by pictures
 
-#.Code snippet
+# .Code snippet
 
 ## 1.Team Details
 
